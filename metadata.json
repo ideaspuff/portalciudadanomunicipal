@@ -1,0 +1,9 @@
+{
+  "name": "Portal Ciudadano Municipal",
+  "description": "Plataforma digital para la gestión de trámites y servicios municipales. Solicita licencias, reporta baches, paga predial y más.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
